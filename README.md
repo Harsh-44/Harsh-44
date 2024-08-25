@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Passionate computer science undergraduate student seeking to embark on a fulfilling career path in either UI/UX design, Web Development or Machine Learning.
+I enjoy wireframing and prototyping, ux, ui, and design in general.
+
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh-44)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Harsh-44/Harsh-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
