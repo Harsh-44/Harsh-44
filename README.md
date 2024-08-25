@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harsh Hareendran Kallinkeel</h1>
-<h3 align="center">I am a Passionate computer science undergraduate student seeking to embark on a fulfilling career path in either UI/UX design, Web Development or Machine Learning. I enjoy wireframing and prototyping, ux, ui, and design in general.</h3>
+<h1 align="left">Hi 👋, I'm Harsh Hareendran Kallinkeel</h1>
+<h3 align="left">Passionate computer science undergraduate student.
+  
+I am seeking to embark on a fulfilling career path in either UI/UX design, Web Development or Machine Learning. I enjoy wireframing and prototyping, ux, ui, and design in general.</h3>
 
 - 🔭 I’m currently working on **making my own new basic programming language**
 
