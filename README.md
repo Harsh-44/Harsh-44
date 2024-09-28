@@ -3,9 +3,9 @@
   
 I am a passionate student seeking to embark on a fulfilling career path in either UI/UX design, Web Development or Machine Learning. I enjoy wireframing and prototyping, ux, ui, and design in general.
 
-- 🔭 I’m currently working on **making my own new basic programming language**
+- 🔭 I’m currently working on **a website for a restaurant startup*
 
-- 🌱 I’m currently learning **React.js, Next.js, React Native**
+- 🌱 I’m currently learning **React.js, Next.js, Tailwind CSS, Typescript**
 
 - 📫 How to reach me **1007116@mymail.sutd.edu.sg**
 
@@ -20,13 +20,4 @@ I am a passionate student seeking to embark on a fulfilling career path in eithe
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-44&show_icons=true&locale=en&layout=compact" alt="harsh-44" />
 </p>
 
-### Overall Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-44&show_icons=true&locale=en" alt="harsh-44" />
-</p>
-
-### Streak Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-44&" alt="harsh-44" />
-</p>
 
