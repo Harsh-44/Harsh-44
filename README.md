@@ -3,7 +3,7 @@
   
 I am a passionate student seeking to embark on a fulfilling career path in either UI/UX design, Web Development or Machine Learning. I enjoy wireframing and prototyping, ux, ui, and design in general.
 
-- 🔭 I’m currently working on **a website for a restaurant startup*
+- 🔭 I’m currently working on **a website for a start-up restaurant**
 
 - 🌱 I’m currently learning **React.js, Next.js, Tailwind CSS, Typescript**
 
