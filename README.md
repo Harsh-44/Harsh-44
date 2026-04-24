@@ -1,8 +1,8 @@
 # Hi 👋, I'm Harsh Hareendran Kallinkeel
 
-### UI/UX Designer & Frontend Engineer
+### Computer Science Graduate
 
-I am a passionate student seeking to embark on a fulfilling career path in either UI/UX design, Web Development or Machine Learning. I enjoy wireframing and prototyping, ux, ui, and design in general.
+I am a passionate, recent graduate seeking to embark on a fulfilling career path in either UI/UX design, Web Development or Machine Learning. I enjoy wireframing and prototyping, ux, ui, and design in general.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsh-44&label=Profile views&color=0e75b6&style=flat" alt="Harsh-44" /> </p>
 
