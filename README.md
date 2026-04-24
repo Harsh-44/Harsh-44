@@ -4,10 +4,6 @@
 
 I am a passionate, recent graduate seeking to embark on a fulfilling career path in either UI/UX design, Web Development or Machine Learning. I enjoy wireframing and prototyping, ux, ui, and design in general.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsh-44&label=Profile views&color=0e75b6&style=flat" alt="Harsh-44" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harsh-44" alt="Harsh-44" /></a> </p>
-
 - 🔭 I'm currently working on **a beautiful portfolio **
 
 - 🌱 I'm currently learning **Next.JS**
