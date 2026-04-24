@@ -8,11 +8,11 @@ I am a passionate, recent graduate seeking to embark on a fulfilling career path
 
 - 🌱 I'm currently learning **Next.JS**
 
-- 💬 Ask me about **Creating visual experiences**
+- 💬 Ask me about **creating visual experiences**
 
 - 📫 How to reach me **harshhareendran58@gmail.com**
 
-- ⚡ Fun fact **I can sing songs of any language**
+- ⚡ Fun fact **I can sing songs of any languages**
 
 - 👨‍💻 All of my projects are available at **[https://hxrsh.framer.website](https://hxrsh.framer.website)**
 
